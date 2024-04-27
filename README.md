@@ -3,7 +3,7 @@
 GET ve POST, web sayfalarında form verilerini sunucuya iletmek için kullanılan iki farklı yöntemdir. GET ile gönderilen veriler URL'nin bir parçası olarak görünürken, `POST ile gönderilen veriler gizli kalır`. GET ile gönderilen verilerin güvenliği daha düşüktür çünkü URL'ye eklendikleri için kullanıcı adı, şifre gibi hassas bilgileri içermemelidirler. POST, verileri HTTP isteğinin gövdesinde gönderdiği için daha güvenlidir ve hassas bilgilerin gönderilmesi için tercih edilir. `GET ile gönderilen veri boyutu sınırlıdır`, POST ise daha büyük veri kümelerini göndermek için daha uygundur. `GET, veri almak için` kullanılırken, `POST, veri göndermek için` kullanılır.
 
 <div align="center">
-        <img src="https://github.com/yasir723/post-get-fark/assets/111686779/a92ad855-7111-41de-82cd-0db45876c043" width=900>
+        <img src="https://github.com/yasir723/post-get-fark/assets/111686779/a92ad855-7111-41de-82cd-0db45876c043">
 </div>
 
 
