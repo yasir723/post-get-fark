@@ -3,7 +3,7 @@
 GET ve POST, web sayfalarında form verilerini sunucuya iletmek için kullanılan iki farklı yöntemdir. GET ile gönderilen veriler URL'nin bir parçası olarak görünürken, `POST ile gönderilen veriler gizli kalır`. GET ile gönderilen verilerin güvenliği daha düşüktür çünkü URL'ye eklendikleri için kullanıcı adı, şifre gibi hassas bilgileri içermemelidirler. POST, verileri HTTP isteğinin gövdesinde gönderdiği için daha güvenlidir ve hassas bilgilerin gönderilmesi için tercih edilir. `GET ile gönderilen veri boyutu sınırlıdır`, POST ise daha büyük veri kümelerini göndermek için daha uygundur. `GET, veri almak için` kullanılırken, `POST, veri göndermek için` kullanılır.
 
 <div align="center">
-        <img src="https://github.com/yasir723/istemci-sunucu-iletisimi/assets/111686779/5b7d9bc2-cc5d-472f-998c-dfc6fbfdb08c">
+        <img src="https://github.com/yasir723/post-get-fark/assets/111686779/a92ad855-7111-41de-82cd-0db45876c043">
 </div>
 
 
@@ -18,13 +18,13 @@ GET ve POST, web sayfalarında form verilerini sunucuya iletmek için kullanıla
 
     Belirli bir siteye ilk girdiğimizde eğer ağ bilgilerine bakarsak `get` olarak gönderildiğini göreceğiz
     <div align="center" >
-        <img src="https://github.com/yasir723/istemci-sunucu-iletisimi/assets/111686779/ca1dfef2-bc84-423c-a0db-3002b96796bf">
+        <img src="https://github.com/yasir723/post-get-fark/assets/111686779/ebe9d4d9-f4a5-4862-97f0-611d3262d919">
     </div>
 
     <br></br>
     Örneğin, kullanıcı adı olarak 'giriş' ve şifre olarak '123' girerek bir veri gönderdiğimizde, bu bilgilerin ağ kısmında `POST` olarak görünecektir
     <div align="center">
-        <img src="https://github.com/yasir723/istemci-sunucu-iletisimi/assets/111686779/bae15ad0-bcf3-4e14-85da-eb11c47bbd55">
+        <img src="https://github.com/yasir723/post-get-fark/assets/111686779/748ed238-1d40-4e2c-8d33-10a37786e289">
     </div>
     
    
